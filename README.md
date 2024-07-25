@@ -1,1 +1,2 @@
 # Python_Docker
+DockerでPythonの統計解析環境を作るためのファイル置き場
